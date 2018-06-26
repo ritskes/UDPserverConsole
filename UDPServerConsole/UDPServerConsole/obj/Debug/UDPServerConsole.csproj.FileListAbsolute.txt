@@ -1,0 +1,7 @@
+D:\TABE\Documents\Visual Studio 2017\REPOS\UDPServerConsole\UDPServerConsole\bin\Debug\UDPServerConsole.exe.config
+D:\TABE\Documents\Visual Studio 2017\REPOS\UDPServerConsole\UDPServerConsole\bin\Debug\UDPServerConsole.exe
+D:\TABE\Documents\Visual Studio 2017\REPOS\UDPServerConsole\UDPServerConsole\bin\Debug\UDPServerConsole.pdb
+D:\TABE\Documents\Visual Studio 2017\REPOS\UDPServerConsole\UDPServerConsole\obj\Debug\UDPServerConsole.csproj.CoreCompileInputs.cache
+D:\TABE\Documents\Visual Studio 2017\REPOS\UDPServerConsole\UDPServerConsole\obj\Debug\UDPServerConsole.exe
+D:\TABE\Documents\Visual Studio 2017\REPOS\UDPServerConsole\UDPServerConsole\obj\Debug\UDPServerConsole.pdb
+D:\TABE\Documents\Visual Studio 2017\REPOS\UDPServerConsole\UDPServerConsole\obj\Debug\UDPServerConsole.csprojAssemblyReference.cache
